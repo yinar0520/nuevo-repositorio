@@ -5,22 +5,13 @@
  */
 package suma;
 
-/**
- *
- * @author jaderbarbosadj
- */
 public class Suma {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-        // TODO code application logic here
-        
         int a=1;
         int b=3;
-        System.out.println("LA SUMA ES "+(a+b));
-        
+        int c=4;
+        System.out.println("LA SUMA ES "+(a+b+c));
     }
     
 }
